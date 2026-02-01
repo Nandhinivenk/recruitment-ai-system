@@ -1,0 +1,35 @@
+Name: Priya Sharma
+Location: Chennai, India
+Email: priyasharma.fs@gmail.com
+Phone: 97XXXXXXXX
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 2.5 years of experience in developing
+web applications using Java, Spring Boot, and React.
+Experienced in both frontend and backend development.
+
+TECHNICAL SKILLS
+Programming Languages: Java, JavaScript
+Backend: Spring Boot, REST APIs
+Frontend: React, HTML, CSS
+Databases: MySQL
+Tools: Git, VS Code, Postman
+
+WORK EXPERIENCE
+Software Developer
+ABC Solutions | Aug 2022 – Present
+
+- Developed full stack web applications using Spring Boot and React
+- Designed REST APIs for client-server communication
+- Worked with MySQL database for CRUD operations
+- Participated in code reviews and sprint planning
+
+PROJECTS
+Employee Management System
+- Created backend APIs using Spring Boot
+- Implemented frontend UI using React
+- Integrated database operations with MySQL
+
+EDUCATION
+B.E. in Information Technology
+SRM Institute of Science and Technology | 2018 – 2022

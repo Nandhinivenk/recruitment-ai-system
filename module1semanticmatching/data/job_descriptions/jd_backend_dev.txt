@@ -1,0 +1,3 @@
+We are looking for a Backend Developer with strong experience in Java,
+Spring Boot, REST APIs, microservices architecture, and PostgreSQL.
+Experience with cloud platforms is a plus.

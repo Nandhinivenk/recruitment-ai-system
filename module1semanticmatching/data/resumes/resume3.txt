@@ -1,0 +1,33 @@
+Name: Rahul Mehta
+Location: Pune, India
+Email: rahul.mehta.ai@gmail.com
+Phone: 96XXXXXXXX
+
+PROFESSIONAL SUMMARY
+Python Developer with experience in data analysis and automation.
+Interested in machine learning and backend scripting.
+
+TECHNICAL SKILLS
+Programming Languages: Python
+Libraries: Pandas, NumPy, Matplotlib
+Databases: SQLite
+Tools: Jupyter Notebook, Git
+Other Skills: Data preprocessing, scripting
+
+WORK EXPERIENCE
+Junior Python Developer
+DataSoft Analytics | Jan 2023 – Present
+
+- Developed automation scripts using Python
+- Performed data cleaning and preprocessing
+- Generated reports using Pandas and Excel
+- Assisted senior developers in backend tasks
+
+PROJECTS
+Sales Data Analysis
+- Analyzed large datasets using Python
+- Created visualizations to identify trends
+
+EDUCATION
+B.Sc. in Computer Science
+University of Pune | 2019 – 2022

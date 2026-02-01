@@ -1,0 +1,5 @@
+Resume,Match_Score (%),Tier,Decision
+resume1.txt,69.01,Potential Match,Selected
+resume2.txt,60.24,Weak Match,Rejected
+resume4.pdf,39.89,Weak Match,Rejected
+resume3.txt,37.31,Weak Match,Rejected
