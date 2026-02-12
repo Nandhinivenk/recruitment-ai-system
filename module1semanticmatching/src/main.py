@@ -9,7 +9,7 @@ from ocr_reader import extract_text_from_scanned_pdf
 
 
 # ---------------- CONFIG ----------------
-MATCH_THRESHOLD = 65.0  # percentage
+MATCH_THRESHOLD = 55.0  # percentage
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -49,7 +49,7 @@ def load_resume_text(file_path):
 
 
 def classify_tier(score_percent):
-    if score_percent >= 80:
+    if score_percent >= 70:
         return "Strong Match"
     elif score_percent >= MATCH_THRESHOLD:
         return "Potential Match"

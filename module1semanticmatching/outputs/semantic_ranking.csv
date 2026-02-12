@@ -1,5 +1,15 @@
 Resume,Match_Score (%),Tier,Decision
+resume14.pdf,74.62,Strong Match,Selected
 resume1.txt,69.01,Potential Match,Selected
-resume2.txt,60.24,Weak Match,Rejected
-resume4.pdf,39.89,Weak Match,Rejected
+resume5.pdf,67.37,Potential Match,Selected
+resume12.pdf,62.85,Potential Match,Selected
+resume13.pdf,60.74,Potential Match,Selected
+resume2.txt,60.24,Potential Match,Selected
+resume4.pdf,56.49,Potential Match,Selected
+resume9.pdf,53.34,Weak Match,Rejected
+resume15.pdf,53.03,Weak Match,Rejected
+resume8.pdf,51.86,Weak Match,Rejected
+resume10.pdf,43.4,Weak Match,Rejected
 resume3.txt,37.31,Weak Match,Rejected
+resume6.pdf,30.66,Weak Match,Rejected
+resume11.pdf,25.58,Weak Match,Rejected
